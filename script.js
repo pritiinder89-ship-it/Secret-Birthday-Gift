@@ -58,8 +58,8 @@ function playMidnightChime() {}
   }
 })();
 
-/* ─── SHINCHAN PASSCODE VERIFICATION (4 DIGITS) ─── */
-const TARGET_PASSCODE = "2005"; // 4-digit passcode
+/* ─── SHINCHAN PASSCODE VEFICATION (4 DIGITS) ─── */
+const TARGET_PASSCODE = "2015"; // 4-digit passcode
 
 const SHINCHAN_GIFS = {
   ask: "assets/shinchan-birthday.png",
